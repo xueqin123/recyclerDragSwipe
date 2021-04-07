@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/85c0afcddd6c4eeaf0a99dc16b6f0998/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/3162e78b65b0c9ed785cf71ad39efd6a/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/97265fef8768e9f961f175abea52e48a/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/23499d3add81f6ba2f3134eb30361de6/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/37e143ee1c0219da29628abb4f1c5ac9/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/e148a1648c810c8318f04eaffbb947cd/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/dc4a1c4e5b627f6e9b09c6bcb2caa3d9/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/1ac386d852943a75e1a5d5df55cb91a9/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/1ddd2a09100fbe4d6ac4db52f93afb3f/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/a40a6307591d663f55a13b5f80e2e485/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/ab31969e52f741c9f27393d7b62ec519/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/cf2f344b10ccb73f25ace8c7bf369d7f/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/e8bbfe89b9571fc9121174ad55ce1c9f/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/2623b7d108cd3a698e7e0a84e56d948d/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/c8c08bfcac85f749cf6eb76877933c75/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/74cb8cbd6c192d738107146bb3d38a9d/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/b599e39c9852971426278b0a7301957d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/bfb88e4e166ee5eb9a968d475c25e988/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/96c3adbc8617b9dce8117ca3c5ef61f1/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/080fca3136632d2c0210c18f6ce203aa/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/a9bc73b6be6b1eb9088edf62e8f460db/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/3b5b0b07a2b2d4beca06db7ed6c033e2/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:5:22-63
+application
+ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/3162e78b65b0c9ed785cf71ad39efd6a/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/3162e78b65b0c9ed785cf71ad39efd6a/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/2623b7d108cd3a698e7e0a84e56d948d/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/2623b7d108cd3a698e7e0a84e56d948d/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/c8c08bfcac85f749cf6eb76877933c75/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/c8c08bfcac85f749cf6eb76877933c75/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/2623b7d108cd3a698e7e0a84e56d948d/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.easyswipetest.MainActivity
+ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
+INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/85c0afcddd6c4eeaf0a99dc16b6f0998/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/85c0afcddd6c4eeaf0a99dc16b6f0998/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/3162e78b65b0c9ed785cf71ad39efd6a/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/3162e78b65b0c9ed785cf71ad39efd6a/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/97265fef8768e9f961f175abea52e48a/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/97265fef8768e9f961f175abea52e48a/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/23499d3add81f6ba2f3134eb30361de6/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/23499d3add81f6ba2f3134eb30361de6/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/37e143ee1c0219da29628abb4f1c5ac9/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/37e143ee1c0219da29628abb4f1c5ac9/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/e148a1648c810c8318f04eaffbb947cd/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/e148a1648c810c8318f04eaffbb947cd/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/dc4a1c4e5b627f6e9b09c6bcb2caa3d9/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/dc4a1c4e5b627f6e9b09c6bcb2caa3d9/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/1ac386d852943a75e1a5d5df55cb91a9/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/1ac386d852943a75e1a5d5df55cb91a9/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/1ddd2a09100fbe4d6ac4db52f93afb3f/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/1ddd2a09100fbe4d6ac4db52f93afb3f/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/a40a6307591d663f55a13b5f80e2e485/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/a40a6307591d663f55a13b5f80e2e485/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/ab31969e52f741c9f27393d7b62ec519/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/ab31969e52f741c9f27393d7b62ec519/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/cf2f344b10ccb73f25ace8c7bf369d7f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/cf2f344b10ccb73f25ace8c7bf369d7f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/e8bbfe89b9571fc9121174ad55ce1c9f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/e8bbfe89b9571fc9121174ad55ce1c9f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/2623b7d108cd3a698e7e0a84e56d948d/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/2623b7d108cd3a698e7e0a84e56d948d/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/c8c08bfcac85f749cf6eb76877933c75/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/c8c08bfcac85f749cf6eb76877933c75/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/74cb8cbd6c192d738107146bb3d38a9d/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/74cb8cbd6c192d738107146bb3d38a9d/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/b599e39c9852971426278b0a7301957d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/b599e39c9852971426278b0a7301957d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/bfb88e4e166ee5eb9a968d475c25e988/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/bfb88e4e166ee5eb9a968d475c25e988/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/96c3adbc8617b9dce8117ca3c5ef61f1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/96c3adbc8617b9dce8117ca3c5ef61f1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/080fca3136632d2c0210c18f6ce203aa/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/080fca3136632d2c0210c18f6ce203aa/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/a9bc73b6be6b1eb9088edf62e8f460db/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/a9bc73b6be6b1eb9088edf62e8f460db/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/3b5b0b07a2b2d4beca06db7ed6c033e2/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/qinxue/.gradle/caches/transforms-2/files-2.1/3b5b0b07a2b2d4beca06db7ed6c033e2/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
+INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qinxue/AndroidStudioProjects/EasySwipeTest/app/src/main/AndroidManifest.xml
